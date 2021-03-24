@@ -29,4 +29,4 @@ Supported tags and respective `Dockerfile` links:
 
 ## Tools you need
 
-- ###[Composer](https://getcomposer.org)
+- ### [Composer](https://getcomposer.org)
