@@ -6,9 +6,9 @@ About image:
 - Used code [clickalicious/phpmemadmin](https://github.com/clickalicious/phpmemadmin)
 - [Docker Hub](https://hub.docker.com/repository/docker/eleventh/pmca)
 
-Supported tags and respective `Dockerfile` links:
+Supported tags
 
-- `5.6-0.3.1` [_(Dockerfile)_]
+- `5.6-0.3.1`
 
 ## Environment Variables
 
